@@ -5,6 +5,6 @@
 ## 목차
 1. [파이썬 프로그래밍 준비하기](https://github.com/cpufilecode/python_life_codeing/tree/master/01)
 2. [기초문법으로 프로그램 만들기](https://github.com/cpufilecode/python_life_codeing/tree/master/02)
-  * 파이썬을 계산기로 활용하기
-  * 19단 곱셈표 출력하기
-  * 부가세 출력 프로그램 만들기
+   * 파이썬을 계산기로 활용하기
+   * 19단 곱셈표 출력하기
+   * 부가세 출력 프로그램 만들기
