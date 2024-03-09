@@ -4,3 +4,5 @@ for i in range(100):
         print(i)
 
 # 평균 나이 구하기
+
+print()
