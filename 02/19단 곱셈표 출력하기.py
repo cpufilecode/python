@@ -9,8 +9,8 @@ for item in number:
 for exam in range(2, 20):
     print(exam)
 
-# 19단 곱셈표
+# 19단 곱셈표 (업그레이드 ver)
     
 for item in range(2, 20):
     for exam in range(2, 20):
-        print(item * exam)
+        print(item,' X ', exam, ' = ', item * exam)
