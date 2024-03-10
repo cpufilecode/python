@@ -14,3 +14,9 @@ for exam in range(2, 20):
 for item in range(2, 20):
     for exam in range(2, 20):
         print(item,' X ', exam, ' = ', item * exam)
+
+# 19단 곱셈표 (문자열 포매팅 업그레이드 ver)
+    
+for item in range(2, 20):
+    for exam in range(2, 20):
+        print('%d X %d = %d' %(item, exam, item * exam))
